@@ -10,7 +10,13 @@ Verziókezelés:
 - git add . 
 - git commit -m "first"
 
-Távoli repo összekapcsolása: 
+Távoli repo összekapcsolása (PAT): 
 
-- ...
-- ... 
+- git remote add origin <url> ! @token
+- git push -u origin master
+
+- git push
+
+nem kaptam meg a harmast
+elegge szomoru vagyok
+sajnos 
