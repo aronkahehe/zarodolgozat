@@ -17,6 +17,6 @@ Távoli repo összekapcsolása (PAT):
 
 - git push
 
-nem kaptam meg a harmast
-elegge szomoru vagyok
-sajnos 
+Klónozás:
+
+- git clone url
